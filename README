@@ -1,0 +1,6 @@
+This is a ELO rating system for Go. 
+
+The start point of this system is all.sh, in which you can use 2 ways to download Go games' records from "http://www.hoetom.com/matchlatest_2011.jsp". 
+Then this program will filter and calculate the ELO scores for all the Go professional players. 
+
+Also, there is one tool called Predict.pl to predict the Go game result for the 2 designated Go players. 
